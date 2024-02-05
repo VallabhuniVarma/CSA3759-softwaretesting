@@ -1,0 +1,59 @@
+import static org.junit. Assert.assertTrue;
+
+import java.util.Scanner;
+
+class factorial
+
+1
+
+public static void main(String[] args)
+
+1
+
+int i, j, pr = 1 ;
+
+try{
+
+Scanners new Scanner(System.in);
+
+System.out.println("Enter the number to find the factorial");
+
+int n s.nextInt();
+
+if(n < 0)
+
+System.out.println("Invalid");
+
+}
+
+else if(n = 0)
+
+1
+
+System.out.println("1");
+
+}
+
+else
+
+{
+
+for(i n;i>0;i--)
+
+pr pri
+
+}
+
+System.out.println("The answer is:" + pr ):
+
+assertTrue(120 pr);
+
+catch(Exception e)
+
+{
+
+System.out.println("Invalid");
+
+}
+}
+}
